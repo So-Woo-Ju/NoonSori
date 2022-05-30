@@ -4,3 +4,6 @@
 [submodule "sowooju-api-server"]
 	path = sowooju-api-server
 	url = https://github.com/So-Woo-Ju/sowooju-api-server.git
+[submodule "sowooju-ml-lambda"]
+	path = sowooju-ml-lambda
+	url = https://github.com/So-Woo-Ju/sowooju-ml-lambda.git
