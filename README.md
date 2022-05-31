@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td><img width="600" src="https://user-images.githubusercontent.com/66551410/171226195-a015e47b-f943-43e6-840a-1717862a1b3d.png"></td>
-    <td><img width="600" src="https://user-images.githubusercontent.com/66551410/171190634-f70327c7-9235-4938-b1c4-17794722d760.png"></td>
+    <td><img width="600" src="https://user-images.githubusercontent.com/66551410/171229868-6518b812-a950-40cb-9fc1-5adbb8dabf10.png"></td>
   </tr>
   <tr>
     <td align="center"><b>동영상 업로드</b></td>
@@ -235,4 +235,6 @@ $ npm run start
 | :------------------------------------: | :--------------------------------------: | :------------------------------------------: | :------------------------------------: |
 | [@jhj2713](https://github.com/jhj2713) | [@somii009](https://github.com/somii009) | [@Sohyun-Dev](https://github.com/Sohyun-Dev) | [@hocaron](https://github.com/hocaron) |
 |               React, AI                |               Backend, AI                |                 Backend, AI                  |              Backend, AI               |
+
+
 
