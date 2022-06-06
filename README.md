@@ -61,39 +61,6 @@
 
   
 
-## 사용한 기술
-
-<table class="tg">
-<tbody>
-  <tr>
-    <td><b>Architecture</b></td>
-    <td>MVVM</td>
-  </tr>
-<tr>
-    <td><b>Jetpack Components</b></td>
-<td>LifeCycle (ViewModel, LiveData, LifeCycleObserver), DataBinding, Jetpack Navigation Component, viewPager2</td>
-</tr>
- <tr>
-    <td><b>library</b></td>
-<td>Standard Library, Glide, Material Design</td>
-</tr>
-<tr>
-    <td><b>Network</b></td>
-<td>OkHttp, Retrofit2, coroutine</td>
-</tr>
-<tr>
-    <td><b>Strategy</b></td>
-<td>Git Flow</td>
-</tr>
-<tr>
-    <td><b>Other Tool</b></td>
-<td>Notion, Slack</td>
-</tr>
-</tbody>
-</table>
-
-
-
 ## Package
 
 ```bash
