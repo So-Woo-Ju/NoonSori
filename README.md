@@ -59,14 +59,6 @@
 </table>
 
 
-  
-
-## Package
-
-```bash
-추가해야합니다.
-```
-
 
 
 # Backend (API)
@@ -87,19 +79,19 @@
 
   
 
-## Dev Server
+## 개발 서버
 
 https://api.so-woo-ju.com/api/v1
 
 
 
-## API Documentation
+## API 문서
 
 https://api.so-woo-ju.com/api/v1/docs
 
 
 
-## Getting Started
+## 
 
 `node: 14.16.0`  
 `npm: 6.14.11`
@@ -147,15 +139,15 @@ $ npm run start
 
 
 
-## Architecture
+## 아키텍쳐
 
-### Server Architecture
+### 서버 아키텍쳐
 
 ![Untitled (1)](https://user-images.githubusercontent.com/66551410/171187998-d7af0312-55ea-47e4-9f85-9b9bf798aa04.png)
 
 
 
-### CICD Architecture
+### CICD 아키텍쳐
 
 ![image](https://user-images.githubusercontent.com/66551410/152016992-cff6b052-35d7-416e-868c-b2702a3ef692.png)
 
@@ -167,15 +159,6 @@ $ npm run start
 ![image](https://user-images.githubusercontent.com/66551410/171187448-8a9ec925-6200-4eec-8ba3-40f8b4e692c5.png)
 
 
-
-## Package
-
-```bash
-추가해야합니다.
-```
-
-
-
 # Backend (AI)
 
 ## 사용한 기술
@@ -183,17 +166,6 @@ $ npm run start
 - MFCC
 - YAMNet
 - AWS Lambda
-
-
-
-
-
-## Package
-
-```bash
-추가해야합니다.
-```
-
 
 
 ## Contributors
