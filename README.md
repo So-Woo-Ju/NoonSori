@@ -77,6 +77,11 @@
 
 - Sentry / Slack  
 
+
+## 배포 서버
+https://sowooju.herokuapp.com/
+- 테스트 이메일 : `test@test.com`
+- 테스트 비밀번호 : `test`
   
 
 ## 개발 서버
